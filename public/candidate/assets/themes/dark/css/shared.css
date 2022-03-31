@@ -1,0 +1,29 @@
+.fine-card{
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    background: #191E3A;
+    -webkit-box-shadow: 2px 5px 17px 0 rgba(0, 0, 0, 0.68);
+    box-shadow: 2px 5px 17px 0 rgba(0, 0, 0, 0.68);
+}
+
+.text-thick{
+    color: white;
+}
+
+#cd-circle .clock-count-container {
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid #25d5e4;
+    margin: 0 0 12px 0;
+    -webkit-box-shadow: 2px 5px 17px 0 rgba(0, 0, 0, 0.68);
+    box-shadow: 2px 5px 17px 0 rgba(0, 0, 0, 0.68);
+}
+
+.progress-bg{
+    background: #0E1726;
+}

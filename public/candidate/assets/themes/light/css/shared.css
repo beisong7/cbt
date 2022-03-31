@@ -1,0 +1,15 @@
+.fine-card{
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    background: white;
+    -webkit-box-shadow: 2px 5px 17px 0 rgba(31, 45, 61, 0.33);
+    box-shadow: 2px 5px 17px 0 rgba(31, 45, 61, 0.33);
+}
+
+.text-thick{
+    color: #222222;
+}
+.progress-bg{
+    background: #E0E6ED;
+}

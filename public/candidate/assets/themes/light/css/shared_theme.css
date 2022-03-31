@@ -1,0 +1,45 @@
+.scrumboard .card.img-task .card-body .task-content img {
+    height: 150px !important;
+}
+.scrumboard-nopads{
+    padding: 0 !important;
+    height: 150px;
+}
+
+.img-middle {
+    text-align: center;
+}
+.img-middle img{
+    width: auto !important;
+    height: 100% !important;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+#cd-circle .clock-val, #cd-circle .countdown .clock-text{
+    text-align: center;
+}
+
+.task-list-container {
+    min-width: 300px !important;
+    /*padding: 0 15px !important;*/
+    /*width: auto !important;*/
+}
+
+
+.task-list-container .p-0 {
+    padding: 0 !important;
+}
+
+.truncate {
+    width: 172px;
+    white-space: nowrap !important;
+    overflow: hidden;
+    text-overflow: ellipsis !important;
+}
+.scrumcard .task-header {
+    margin-bottom: 18px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 0 20px;
+}
